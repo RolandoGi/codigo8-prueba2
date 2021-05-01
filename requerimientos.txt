@@ -1,0 +1,2 @@
+1.Crear un header responsivo con 5 link
+Usar boostrap como sistema de estilos
