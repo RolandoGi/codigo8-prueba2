@@ -1,2 +1,2 @@
 #repositorio de prueba de rolando
-## Pronto nueba actuizaciones
+## Pronto lo nuevo de Rolando
